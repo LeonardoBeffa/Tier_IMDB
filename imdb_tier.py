@@ -7,7 +7,7 @@ from selenium.webdriver.firefox.options import Options
 
 os.system('cls')
 
-caminho = 'C:/Users/Beffa/Documents/Python/webScraping/IMDB'
+caminho = 'Endereço de salvamento'
 headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"}
 
 url_filme = 'https://m.imdb.com/chart/top/?sort=release_date%2Cdesc'
